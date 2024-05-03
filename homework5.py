@@ -1,6 +1,6 @@
 def print_params(day):
-    day = day * 2
-    print('today is', day)
+    print(day)
+    print(day)
 
 
 print_params('monday')
